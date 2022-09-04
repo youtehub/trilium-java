@@ -1,4 +1,4 @@
-package com.md.view.model;
+package com.md.view.entity;
 
 
 import java.util.Date;

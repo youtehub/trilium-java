@@ -2,7 +2,7 @@ package com.md.view.controller;
 
 import cn.hutool.http.HttpRequest;
 import cn.hutool.json.JSONUtil;
-import com.md.view.model.MDContent;
+import com.md.view.entity.MDContent;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
